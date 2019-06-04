@@ -8,5 +8,3 @@ debug/
 *.sdf
 # bo qua file *.txt trong folder data/text
 data/text/*.txt
-
-*.txt
