@@ -1,2 +1,2 @@
-# GitPractice
-Research GitHub
+# practice1
+Only for practices
