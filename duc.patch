@@ -1,0 +1,12 @@
+diff --git a/sources/Utils.cpp b/sources/Utils.cpp
+index 892ab3b..92953a8 100644
+--- a/sources/Utils.cpp
++++ b/sources/Utils.cpp
+@@ -43,3 +43,7 @@ int Utils::Random(int min, int max)
+ 
+ 	return random;
+ }
++int Add(int a, int b)
++{
++	return a + b;
++}
