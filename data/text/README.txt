@@ -7,6 +7,5 @@ or from http://portableapps.com/apps/office/openoffice_portable (open office por
 the use of openOffice in mandatory in all production team
 the use of Microsoft office tools must be restrain to minimal use, and only when open office cannot do it
 
-RAMARD Brice
-brice.ramard@gameloft.com
+
 
